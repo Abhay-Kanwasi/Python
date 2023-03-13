@@ -18,3 +18,4 @@ print(f"My bmi is : {60/1.7:.2f} ")
 weight = 42
 name = "abhay"
 print("my name is : %s and my weight is %d" % (name, weight))
+print("my name : %s" % name)
